@@ -1,13 +1,13 @@
 # Humans in Latent Space
 
-Welcome to the intersection of the humanities and latent mechanics.
+**Humans in Latent Space** pursue the responsible, productive, and sustainable application of generative systems.
 
-We are entering an era of agentic, autonomously acting AI. To remain sovereign, we must move beyond the role of the passive consumer. This blog explores Vectorial Agency: the human capacity to navigate the Latent Space — the mathematical foundation of every Large Language Model — with intent, precision, and technical maturity.
+**Humans in Latent Space** value humanness and conduct themselves with respect toward others—whether in the stewardship of data or in public discourse. They never deploy AI with the intention to harm, exploit, or demean.
 
-I just started to write my [Substack](https://resonism.substack.com/) about **Resonism**.
-**Resonism** is my framework — a synthesis of theory and practice designed to achieve resonance with AI. By resonance, I mean a self-reinforcing, constructive interaction between human intent and machine output.
+**Humans in Latent Space** disclose not merely *that* they use AI, but to what extent and toward what purpose. This is not about the verbatim publication of every single prompt—an expectation that is untenable in practice and often counterproductive in both commerce and art. Rather, it is about making human intent and human craft fully transparent, treating AI as an instrument of human agency rather than an autonomous creator.
 
-The conceptual framework of Resonism lives and grows in a dedicated [Github Repository](https://github.com/humans-in-latent-space/vectorial-agency). 
-This is an open-source project and an invitation to participate in defining the human place within the Latent Space.
+**Humans in Latent Space** guide AI intentionally, deliberately, and purposefully. They navigate latent space with agency rather than drifting through it. They approach synthetic output with disciplined distance and skepticism: generative systems optimize for internal plausibility and statistical likelihood; they do not produce objective truth.
 
-**Avoid Noise, seek Resonance**
+**Humans in Latent Space** strive for efficient AI utilization. They view the thoughtless burning of compute as both an economic and ecological absurdity. Nor do they treat AI like a slot machine: when a prompt fails to produce the intended result after a few iterations, they refine their instructions and architecture. Anything else is merely a gamble against probability.
+
+**Humans in Latent Space** recognize that in drawing upon AI, they are partaking in the commons. It is in their own vital interest to return value for every extraction—whether through the rigorous release of the results as open source or by reinvesting proceeds into the cultural and technical substrate (supporting emerging talent, data curation, and infrastructure stewardship). The objective is the establishment of a generative, cybernetic feedback loop.
