@@ -11,3 +11,7 @@
 **Humans in Latent Space** strive for efficient AI utilization. They view the thoughtless burning of compute as both an economic and ecological absurdity. Nor do they treat AI like a slot machine: when a prompt fails to produce the intended result after a few iterations, they refine their instructions and architecture. Anything else is merely a gamble against probability.
 
 **Humans in Latent Space** recognize that in drawing upon AI, they are partaking in the commons. It is in their own vital interest to return value for every extraction—whether through the rigorous release of the results as open source or by reinvesting proceeds into the cultural and technical substrate (supporting emerging talent, data curation, and infrastructure stewardship). The objective is the establishment of a generative, cybernetic feedback loop.
+
+---
+
+* **[Likeness Notes](https://github.com/humans-in-latent-space/likeness-lp)**: An AI-Realized Concept Album as a Field Experiment in Declared Intent, Cybernetic Workflows, and Methodology
