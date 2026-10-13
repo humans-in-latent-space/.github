@@ -14,4 +14,5 @@
 
 ---
 
-* **[Likeness Notes](https://github.com/humans-in-latent-space/likeness-lp)**: An AI-Realized Concept Album as a Field Experiment in Declared Intent, Cybernetic Workflows, and Methodology
+* **[Likeness Notes](https://github.com/humans-in-latent-space/likeness-lp)**
+  An AI-Realized Concept Album as a Field Experiment in Declared Intent, Cybernetic Workflows, and Methodology
